@@ -17,7 +17,3 @@ It was announced and released in January 2017.
 | Display      | 1280 x 720 (16:9), 4.7  inch                       |
 | Rear camera 1 | 13MP, f/1.9                                       |
 | Front camera  | 8MP                                               |
-
-## Device picture
-
-![Samsung A3 2017](https://www.maxmovil.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/c/o/comprar_samsung_galaxy_a3_2017_negro_2.jpg)
